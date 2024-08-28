@@ -1,3 +1,9 @@
+# My object
+build
+bin 
+lib
+cmake-helper
+
 # C++ objects and libs
 *.slo
 *.lo
